@@ -1,0 +1,22 @@
+﻿  Queue_main.cpp
+C:\Users\Админ\OneDrive\Рабочий стол\Queue\list.h(542,20): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Админ\OneDrive\Рабочий стол\Queue\list.h(543,20): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Админ\OneDrive\Рабочий стол\Queue\list.h(544,20): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Админ\OneDrive\Рабочий стол\Queue\list.h(547,5): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  Queue.vcxproj -> C:\Users\Админ\OneDrive\Рабочий стол\Queue\x64\Debug\Queue.exe

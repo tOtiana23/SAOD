@@ -1,0 +1,2 @@
+D:\Структуры данных и алгоритмы\Очереди\Queue\x64\Debug\Queue.exe
+C:\Users\Админ\OneDrive\Рабочий стол\Queue\x64\Debug\Queue.exe
